@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tmeallinonereborn" tvg-language="Unknown",Tmeallinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="@nub11carder" tvg-language="Unknown",Tmeallinonereborn
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/shirdi_sai_baba.png" group-title="General" tvg-name="Shirdi Sai Baba" tvg-language="Unknown",Shirdi Sai Baba
 https://amit-1.allinonereborn.in/tplaydrm769/manifest.mpd?id=840|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/somnath_temple.png" group-title="General" tvg-name="Somnath Temple" tvg-language="Unknown",Somnath Temple
