@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tmeallinonereborn" tvg-language="Unknown",Tmeallinonereborn
-https://embed-cloudfront.wistia.com/deliveries/c6a8040a3c022d3e8ae20bf5fb8d140346553b56.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="TmeM3U_PLAYLIST" tvg-language="Unknown",Tmeallinonereborn
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/aquarium_4k.png" group-title="General" tvg-name="Aquarium 4K" tvg-language="Unknown",Aquarium 4K
 https://amit-1.allinonereborn.in/jioxbe19.m3u8?id=14597
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/fireplace_tv_4k.png" group-title="General" tvg-name="Fireplace Tv 4K" tvg-language="Unknown",Fireplace Tv 4K
