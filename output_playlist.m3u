@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/mastiii_indias_no1_music_and_youth_channel.png" group-title="Music" tvg-name="Mastiii Indias No1 Music And Youth Channel" tvg-language="Unknown",Mastiii Indias No1 Music And Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_news.png" group-title="News" tvg-name="Abp News" tvg-language="Unknown",Abp News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/news9live.png" group-title="News" tvg-name="News9Live" tvg-language="Unknown",News9Live
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids_tv_nursery_rhymes_and_baby_songs.png" group-title="Kids" tvg-name="Kids Tv Nursery Rhymes And Baby Songs" tvg-language="Unknown",Kids Tv Nursery Rhymes And Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/vikatan_tv.png" group-title="General" tvg-name="Vikatan Tv" tvg-language="Unknown",Vikatan Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pitaara_tv.png" group-title="General" tvg-name="Pitaara Tv" tvg-language="Unknown",Pitaara Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/foodfood.png" group-title="General" tvg-name="Foodfood" tvg-language="Unknown",Foodfood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_majha.png" group-title="General" tvg-name="Abp Majha" tvg-language="Unknown",Abp Majha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/trace_urban.png" group-title="General" tvg-name="Trace Urban" tvg-language="Unknown",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/balle_balle.png" group-title="General" tvg-name="Balle Balle" tvg-language="Unknown",Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/dronetv.png" group-title="General" tvg-name="Dronetv" tvg-language="Unknown",Dronetv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/always_funny_pranks_fails.png" group-title="General" tvg-name="Always Funny Pranks Fails" tvg-language="Unknown",Always Funny Pranks Fails
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-pranks-and-fails/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/yrf_music.png" group-title="Music" tvg-name="Yrf Music" tvg-language="Unknown",Yrf Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/saga_music_haryanvi.png" group-title="Music" tvg-name="Saga Music Haryanvi" tvg-language="Unknown",Saga Music Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/saga_music.png" group-title="Music" tvg-name="Saga Music" tvg-language="Unknown",Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/toon_goggles_en_español.png" group-title="General" tvg-name="Toon Goggles En Español" tvg-language="Unknown",Toon Goggles En Español
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/craftsytv.png" group-title="General" tvg-name="Craftsytv" tvg-language="Unknown",Craftsytv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/bhakti_play.png" group-title="Spiritual" tvg-name="Bhakti Play" tvg-language="Unknown",Bhakti Play
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakti-play/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cook_bake.png" group-title="General" tvg-name="Cook Bake" tvg-language="Unknown",Cook Bake
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/hollywood_desi.png" group-title="General" tvg-name="Hollywood Desi" tvg-language="Unknown",Hollywood Desi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_news.png" group-title="News" tvg-name="Abp News" tvg-language="Unknown",Abp News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_ganga.png" group-title="General" tvg-name="Abp Ganga" tvg-language="Unknown",Abp Ganga
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_bharatvarsh.png" group-title="General" tvg-name="Tv9 Bharatvarsh" tvg-language="Unknown",Tv9 Bharatvarsh
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_majha.png" group-title="General" tvg-name="Abp Majha" tvg-language="Unknown",Abp Majha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_marathi.png" group-title="General" tvg-name="Tv9 Marathi" tvg-language="Unknown",Tv9 Marathi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_telugu.png" group-title="Regional - Telugu" tvg-name="Tv9 Telugu" tvg-language="Telugu",Tv9 Telugu
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_kannada.png" group-title="General" tvg-name="Tv9 Kannada" tvg-language="Unknown",Tv9 Kannada
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_ananda.png" group-title="General" tvg-name="Abp Ananda" tvg-language="Unknown",Abp Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_bangla.png" group-title="Regional - Bangla" tvg-name="Tv9 Bangla" tvg-language="Bangla",Tv9 Bangla
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_asmita.png" group-title="General" tvg-name="Abp Asmita" tvg-language="Unknown",Abp Asmita
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv9_gujarati.png" group-title="General" tvg-name="Tv9 Gujarati" tvg-language="Unknown",Tv9 Gujarati
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/abp_sanjha.png" group-title="General" tvg-name="Abp Sanjha" tvg-language="Unknown",Abp Sanjha
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tv_punjab.png" group-title="General" tvg-name="Tv Punjab" tvg-language="Unknown",Tv Punjab
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/news9live.png" group-title="News" tvg-name="News9Live" tvg-language="Unknown",News9Live
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/main.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/euronews.png" group-title="News" tvg-name="Euronews" tvg-language="Unknown",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/law_crime.png" group-title="General" tvg-name="Law Crime" tvg-language="Unknown",Law Crime
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/schwab_network.png" group-title="General" tvg-name="Schwab Network" tvg-language="Unknown",Schwab Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/oan_plus.png" group-title="General" tvg-name="Oan Plus" tvg-language="Unknown",Oan Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/africanews.png" group-title="News" tvg-name="Africanews" tvg-language="Unknown",Africanews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/defiance_media.png" group-title="General" tvg-name="Defiance Media" tvg-language="Unknown",Defiance Media
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/real_vision.png" group-title="General" tvg-name="Real Vision" tvg-language="Unknown",Real Vision
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-vision-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/entrepreneur.png" group-title="General" tvg-name="Entrepreneur" tvg-language="Unknown",Entrepreneur
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/black_enterprise.png" group-title="General" tvg-name="Black Enterprise" tvg-language="Unknown",Black Enterprise
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/black-enterprise/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/yrf_music.png" group-title="Music" tvg-name="Yrf Music" tvg-language="Unknown",Yrf Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/shemaroo_bollywood.png" group-title="General" tvg-name="Shemaroo Bollywood" tvg-language="Unknown",Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/shemaroo_umang_plus.png" group-title="General" tvg-name="Shemaroo Umang Plus" tvg-language="Unknown",Shemaroo Umang Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/shemaroo_filmigaane.png" group-title="General" tvg-name="Shemaroo Filmigaane" tvg-language="Unknown",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/masala_mx_player_plus.png" group-title="General" tvg-name="Masala Mx Player Plus" tvg-language="Unknown",Masala Mx Player Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-MX Player-plus/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/britasiatv.png" group-title="General" tvg-name="Britasiatv" tvg-language="Unknown",Britasiatv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pitaara_tv.png" group-title="General" tvg-name="Pitaara Tv" tvg-language="Unknown",Pitaara Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sanjha_tv.png" group-title="General" tvg-name="Sanjha Tv" tvg-language="Unknown",Sanjha Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sanjha-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/desi_tv.png" group-title="General" tvg-name="Desi Tv" tvg-language="Unknown",Desi Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/arré.png" group-title="General" tvg-name="Arré" tvg-language="Unknown",Arré
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/hooray_rhymes.png" group-title="General" tvg-name="Hooray Rhymes" tvg-language="Unknown",Hooray Rhymes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids_tv_india_nursery_rhymes_and_baby_songs.png" group-title="Kids" tvg-name="Kids Tv India Nursery Rhymes And Baby Songs" tvg-language="Unknown",Kids Tv India Nursery Rhymes And Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids_tv_español_latino_canciones_infantiles.png" group-title="Kids" tvg-name="Kids Tv Español Latino Canciones Infantiles" tvg-language="Unknown",Kids Tv Español Latino Canciones Infantiles
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids_tv_nursery_rhymes_and_baby_songs.png" group-title="Kids" tvg-name="Kids Tv Nursery Rhymes And Baby Songs" tvg-language="Unknown",Kids Tv Nursery Rhymes And Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/watchit_kid.png" group-title="General" tvg-name="Watchit Kid" tvg-language="Unknown",Watchit Kid
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/yrf_music.png" group-title="Music" tvg-name="Yrf Music" tvg-language="Unknown",Yrf Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/9x_jalwa.png" group-title="General" tvg-name="9X Jalwa" tvg-language="Unknown",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/9xm.png" group-title="General" tvg-name="9Xm" tvg-language="Unknown",9Xm
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/mastiii_indias_no1_music_and_youth_channel.png" group-title="Music" tvg-name="Mastiii Indias No1 Music And Youth Channel" tvg-language="Unknown",Mastiii Indias No1 Music And Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/maiboli.png" group-title="General" tvg-name="Maiboli" tvg-language="Unknown",Maiboli
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/dabangg.png" group-title="General" tvg-name="Dabangg" tvg-language="Unknown",Dabangg
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/only_music.png" group-title="Music" tvg-name="Only Music" tvg-language="Unknown",Only Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/balle_balle.png" group-title="General" tvg-name="Balle Balle" tvg-language="Unknown",Balle Balle
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/trace_urban.png" group-title="General" tvg-name="Trace Urban" tvg-language="Unknown",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pulse.png" group-title="General" tvg-name="Pulse" tvg-language="Unknown",Pulse
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pulse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/horizon_sports.png" group-title="Live Sports" tvg-name="Horizon Sports" tvg-language="Unknown",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sportskool_tv.png" group-title="Live Sports" tvg-name="Sportskool Tv" tvg-language="Unknown",Sportskool Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportskool-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/outside.png" group-title="General" tvg-name="Outside" tvg-language="Unknown",Outside
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/mma_junkie.png" group-title="General" tvg-name="Mma Junkie" tvg-language="Unknown",Mma Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/hard_knocks.png" group-title="General" tvg-name="Hard Knocks" tvg-language="Unknown",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/world_poker_tour.png" group-title="General" tvg-name="World Poker Tour" tvg-language="Unknown",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/adventure_sports_tv.png" group-title="Live Sports" tvg-name="Adventure Sports Tv" tvg-language="Unknown",Adventure Sports Tv
+https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/glewedtv_yoga_fitness.png" group-title="General" tvg-name="Glewedtv Yoga Fitness" tvg-language="Unknown",Glewedtv Yoga Fitness
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-yoga/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/dot_esports.png" group-title="Live Sports" tvg-name="Dot Esports" tvg-language="Unknown",Dot Esports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/floracing_247.png" group-title="General" tvg-name="Floracing 247" tvg-language="Unknown",Floracing 247
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/floracing-247/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/foodfood.png" group-title="General" tvg-name="Foodfood" tvg-language="Unknown",Foodfood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/gusto_tv.png" group-title="General" tvg-name="Gusto Tv" tvg-language="Unknown",Gusto Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/wedding_tv_by_love_stories_tv.png" group-title="General" tvg-name="Wedding Tv By Love Stories Tv" tvg-language="Unknown",Wedding Tv By Love Stories Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wedding-tv-by-love-stories-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/crematv.png" group-title="General" tvg-name="Crematv" tvg-language="Unknown",Crematv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cooking_panda.png" group-title="General" tvg-name="Cooking Panda" tvg-language="Unknown",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/4k_travel_tv.png" group-title="General" tvg-name="4K Travel Tv" tvg-language="Unknown",4K Travel Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/real_life_tv.png" group-title="General" tvg-name="Real Life Tv" tvg-language="Unknown",Real Life Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/choppertown.png" group-title="General" tvg-name="Choppertown" tvg-language="Unknown",Choppertown
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/choppertown/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/the_boat_show.png" group-title="General" tvg-name="The Boat Show" tvg-language="Unknown",The Boat Show
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/awe_plus.png" group-title="General" tvg-name="Awe Plus" tvg-language="Unknown",Awe Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/always_funny_pranks_fails.png" group-title="General" tvg-name="Always Funny Pranks Fails" tvg-language="Unknown",Always Funny Pranks Fails
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-pranks-and-fails/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/always_funny.png" group-title="General" tvg-name="Always Funny" tvg-language="Unknown",Always Funny
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/young_hollywood.png" group-title="General" tvg-name="Young Hollywood" tvg-language="Unknown",Young Hollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/lone_star.png" group-title="General" tvg-name="Lone Star" tvg-language="Unknown",Lone Star
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kaloopy.png" group-title="General" tvg-name="Kaloopy" tvg-language="Unknown",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/right_now_tv.png" group-title="General" tvg-name="Right Now Tv" tvg-language="Unknown",Right Now Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/humor_mill.png" group-title="General" tvg-name="Humor Mill" tvg-language="Unknown",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/fwtv_by_firework.png" group-title="General" tvg-name="Fwtv By Firework" tvg-language="Unknown",Fwtv By Firework
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fwtv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/revry_news.png" group-title="News" tvg-name="Revry News" tvg-language="Unknown",Revry News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/revry_her.png" group-title="General" tvg-name="Revry Her" tvg-language="Unknown",Revry Her
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/bowery_classics.png" group-title="General" tvg-name="Bowery Classics" tvg-language="Unknown",Bowery Classics
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/galxy_tv.png" group-title="General" tvg-name="Galxy Tv" tvg-language="Unknown",Galxy Tv
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/glewedtv_the_vault.png" group-title="General" tvg-name="Glewedtv The Vault" tvg-language="Unknown",Glewedtv The Vault
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/encore.png" group-title="General" tvg-name="Encore" tvg-language="Unknown",Encore
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/monarch.png" group-title="General" tvg-name="Monarch" tvg-language="Unknown",Monarch
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cinepride.png" group-title="General" tvg-name="Cinepride" tvg-language="Unknown",Cinepride
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/revry.png" group-title="General" tvg-name="Revry" tvg-language="Unknown",Revry
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/epic_tv.png" group-title="General" tvg-name="Epic Tv" tvg-language="Unknown",Epic Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/documentary.png" group-title="General" tvg-name="Documentary" tvg-language="Unknown",Documentary
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/ted.png" group-title="General" tvg-name="Ted" tvg-language="Unknown",Ted
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/goalcast.png" group-title="General" tvg-name="Goalcast" tvg-language="Unknown",Goalcast
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/goalcast/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/true_history.png" group-title="General" tvg-name="True History" tvg-language="Unknown",True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/militarytimes.png" group-title="General" tvg-name="Militarytimes" tvg-language="Unknown",Militarytimes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sword_shield.png" group-title="General" tvg-name="Sword Shield" tvg-language="Unknown",Sword Shield
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sword-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/titanic_tv.png" group-title="General" tvg-name="Titanic Tv" tvg-language="Unknown",Titanic Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/everyday_heroes.png" group-title="General" tvg-name="Everyday Heroes" tvg-language="Unknown",Everyday Heroes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/garv_punjab_gurbani.png" group-title="General" tvg-name="Garv Punjab Gurbani" tvg-language="Unknown",Garv Punjab Gurbani
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/swar_shree.png" group-title="General" tvg-name="Swar Shree" tvg-language="Unknown",Swar Shree
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swar-shree/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/hare_krsna.png" group-title="General" tvg-name="Hare Krsna" tvg-language="Unknown",Hare Krsna
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/bless_tv.png" group-title="General" tvg-name="Bless Tv" tvg-language="Unknown",Bless Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/gurkibani_tv.png" group-title="General" tvg-name="Gurkibani Tv" tvg-language="Unknown",Gurkibani Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gurkibani-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/channel_divya.png" group-title="General" tvg-name="Channel Divya" tvg-language="Unknown",Channel Divya
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/channel-divya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/dronetv.png" group-title="General" tvg-name="Dronetv" tvg-language="Unknown",Dronetv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/sonicentric.png" group-title="General" tvg-name="Sonicentric" tvg-language="Unknown",Sonicentric
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/naturestreamtv.png" group-title="General" tvg-name="Naturestreamtv" tvg-language="Unknown",Naturestreamtv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/quietude_4k.png" group-title="General" tvg-name="Quietude 4K" tvg-language="Unknown",Quietude 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/fireplace_lounge.png" group-title="General" tvg-name="Fireplace Lounge" tvg-language="Unknown",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/fish_tank.png" group-title="General" tvg-name="Fish Tank" tvg-language="Unknown",Fish Tank
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/relaxing_rain.png" group-title="General" tvg-name="Relaxing Rain" tvg-language="Unknown",Relaxing Rain
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/island_escape.png" group-title="General" tvg-name="Island Escape" tvg-language="Unknown",Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tranquil_thunderstorms.png" group-title="General" tvg-name="Tranquil Thunderstorms" tvg-language="Unknown",Tranquil Thunderstorms
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/autumn_escape.png" group-title="General" tvg-name="Autumn Escape" tvg-language="Unknown",Autumn Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/feva_tv.png" group-title="General" tvg-name="Feva Tv" tvg-language="Unknown",Feva Tv
+https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kwelitv.png" group-title="General" tvg-name="Kwelitv" tvg-language="Unknown",Kwelitv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kwelitv/24-25-3009.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/afrolandtv.png" group-title="General" tvg-name="Afrolandtv" tvg-language="Unknown",Afrolandtv
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/afriwood_series.png" group-title="General" tvg-name="Afriwood Series" tvg-language="Unknown",Afriwood Series
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-series/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/bongo.png" group-title="General" tvg-name="Bongo" tvg-language="Unknown",Bongo
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bongo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cinema_hausa.png" group-title="Movies" tvg-name="Cinema Hausa" tvg-language="Unknown",Cinema Hausa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/diva.png" group-title="General" tvg-name="Diva" tvg-language="Unknown",Diva
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/diva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/lol.png" group-title="General" tvg-name="Lol" tvg-language="Unknown",Lol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/true_african.png" group-title="General" tvg-name="True African" tvg-language="Unknown",True African
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/glewedtv_spanish.png" group-title="General" tvg-name="Glewedtv Spanish" tvg-language="Unknown",Glewedtv Spanish
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
