@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>M3U Playlist Checker</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; padding: 20px; }
+    h1 { text-align: center; color: #333; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+    th { background-color: #444; color: white; }
+    tr:nth-child(even) { background-color: #f2f2f2; }
+    .status-working { color: green; font-weight: bold; }
+    .status-failed { color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>M3U Playlist Checker</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>File Name</th>
+        <th>Status</th>
+        <th>Last Updated</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="playlistTable"></tbody>
+  </table>  <script>
+    const githubApiUrl = "https://api.github.com/repos/rkbro23/rk_playlist/contents";
+
+    async function checkUrlStatus(url) {
+      try {
+        const res = await fetch(url, { method: 'HEAD' });
+        return res.ok;
+      } catch {
+        return false;
+      }
+    }
+
+    async function fetchM3UFiles() {
+      const res = await fetch(githubApiUrl);
+      const files = await res.json();
+      const table = document.getElementById("playlistTable");
+
+      const m3uFiles = files.filter(file => file.name.endsWith(".m3u"));
+
+      for (const file of m3uFiles) {
+        const rawUrl = `https://raw.githubusercontent.com/rkbro23/rk_playlist/main/${file.name}`;
+        const isWorking = await checkUrlStatus(rawUrl);
+        const tr = document.createElement("tr");
+
+        tr.innerHTML = `
+          <td>${file.name}</td>
+          <td class="${isWorking ? 'status-working' : 'status-failed'}">
+            ${isWorking ? 'Working' : 'Not Working'}
+          </td>
+          <td>${new Date(file.git_url.match(/\d{4}-\d{2}-\d{2}T[\d:.]+Z/)).toLocaleString()}</td>
+          <td><a href="${rawUrl}" target="_blank">Open</a></td>
+        `;
+        table.appendChild(tr);
+      }
+    }
+
+    fetchM3UFiles();
+  </script></body>
+</html>
