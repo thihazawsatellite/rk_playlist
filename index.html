@@ -1,86 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>M3U Playlist Checker</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>M3U Playlist Status</title>
   <style>
     body {
-      font-family: 'Poppins', sans-serif;
-      background: #1e1e2f;
-      color: #fff;
-      margin: 0;
+      font-family: Arial, sans-serif;
       padding: 20px;
+      background: #f9f9f9;
+      color: #000;
     }
     h1 {
       text-align: center;
-      margin-bottom: 30px;
-      font-weight: 600;
-      color: #00ffc3;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      background: #2c2c3e;
-      border-radius: 8px;
-      overflow: hidden;
+      margin-top: 10px;
     }
     th, td {
-      padding: 12px 15px;
+      padding: 10px;
+      border: 1px solid #ccc;
       text-align: left;
     }
     th {
-      background-color: #3a3a4d;
-      color: #00ffc3;
-    }
-    tr:nth-child(even) {
-      background-color: #29293d;
+      background-color: #007bff;
+      color: white;
     }
     .status-working {
-      color: #00ff7f;
+      color: green;
       font-weight: bold;
     }
     .status-failed {
-      color: #ff4c4c;
+      color: red;
       font-weight: bold;
     }
-    a {
-      color: #00bfff;
-      text-decoration: none;
+    tr.hidden {
+      display: none;
     }
-    a:hover {
-      text-decoration: underline;
+    #controls {
+      text-align: center;
+      margin: 20px 0;
     }
-    @media (max-width: 600px) {
-      table, thead, tbody, th, td, tr {
-        display: block;
-      }
-      tr {
-        margin-bottom: 15px;
-        border: 1px solid #444;
-        border-radius: 8px;
-        padding: 10px;
-        background: #2a2a3b;
-      }
-      th {
-        display: none;
-      }
-      td {
-        padding: 8px;
-        display: flex;
-        justify-content: space-between;
-      }
-      td::before {
-        content: attr(data-label);
-        font-weight: bold;
-        color: #999;
-      }
+    #searchInput {
+      padding: 6px;
+      width: 240px;
+      font-size: 14px;
+    }
+    #loading {
+      text-align: center;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    button.copy-btn {
+      padding: 4px 8px;
+      margin-left: 6px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    body.dark {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+    body.dark table {
+      border-color: #444;
+    }
+    body.dark th {
+      background-color: #222;
+    }
+    body.dark td, body.dark th {
+      border-color: #333;
+    }
+    body.dark a {
+      color: #80bfff;
     }
   </style>
 </head>
 <body>
   <h1>M3U Playlist Status Checker</h1>
+
+  <div id="controls">
+    <label><input type="checkbox" id="hideNotWorking"> Hide Not Working</label>
+    <input type="text" id="searchInput" placeholder="Search by file name..." />
+    <label style="margin-left: 20px;"><input type="checkbox" id="darkModeToggle"> Dark Mode</label>
+    <button id="downloadBtn" style="margin-left: 20px;">Download Working M3U</button>
+    <p id="summaryCounts">Loading counts...</p>
+  </div>
+
   <table>
     <thead>
       <tr>
@@ -93,12 +100,24 @@
     <tbody id="playlistTable"></tbody>
   </table>
 
+  <p id="loading">Checking playlists...</p>
+
   <script>
     const githubApiUrl = "https://api.github.com/repos/rkbro23/rk_playlist/contents";
+    const table = document.getElementById("playlistTable");
+    const summaryCounts = document.getElementById("summaryCounts");
+    const searchInput = document.getElementById("searchInput");
+    const hideNotWorkingCheckbox = document.getElementById("hideNotWorking");
 
     async function checkUrlStatus(url) {
       try {
-        const res = await fetch(url);
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 8000);
+        const res = await fetch(url, {
+          method: 'GET',
+          signal: controller.signal
+        });
+        clearTimeout(timeout);
         const text = await res.text();
         return res.ok && text.includes("#EXTM3U");
       } catch {
@@ -110,36 +129,101 @@
       try {
         const res = await fetch(`https://api.github.com/repos/rkbro23/rk_playlist/commits?path=${filename}&page=1&per_page=1`);
         const data = await res.json();
-        return new Date(data[0].commit.author.date).toLocaleString();
+        return {
+          date: new Date(data[0].commit.author.date),
+          display: new Date(data[0].commit.author.date).toLocaleString()
+        };
       } catch {
-        return "Unknown";
+        return { date: new Date(0), display: "Unknown" };
       }
     }
 
     async function fetchM3UFiles() {
-      const res = await fetch(githubApiUrl);
-      const files = await res.json();
-      const table = document.getElementById("playlistTable");
+      try {
+        const res = await fetch(githubApiUrl);
+        const files = await res.json();
+        const m3uFiles = files.filter(file => file.name.endsWith(".m3u"));
 
-      const m3uFiles = files.filter(file => file.name.endsWith(".m3u"));
+        const results = await Promise.allSettled(m3uFiles.map(async (file) => {
+          const rawUrl = `https://raw.githubusercontent.com/rkbro23/rk_playlist/main/${file.name}`;
+          const isWorking = await checkUrlStatus(rawUrl);
+          const lastMod = await getLastModified(file.name);
+          return {
+            name: file.name,
+            url: rawUrl,
+            isWorking,
+            lastUpdated: lastMod.display,
+            sortDate: lastMod.date
+          };
+        }));
 
-      for (const file of m3uFiles) {
-        const rawUrl = `https://raw.githubusercontent.com/rkbro23/rk_playlist/main/${file.name}`;
-        const isWorking = await checkUrlStatus(rawUrl);
-        const lastUpdated = await getLastModified(file.name);
+        const sortedResults = results
+          .filter(r => r.status === 'fulfilled')
+          .map(r => r.value)
+          .sort((a, b) => b.sortDate - a.sortDate);
 
-        const tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td data-label="File Name">${file.name}</td>
-          <td data-label="Status" class="${isWorking ? 'status-working' : 'status-failed'}">
-            ${isWorking ? 'Working' : 'Not Working'}
-          </td>
-          <td data-label="Last Updated">${lastUpdated}</td>
-          <td data-label="Link"><a href="${rawUrl}" target="_blank">Open</a></td>
-        `;
-        table.appendChild(tr);
+        let workingCount = 0, failedCount = 0;
+
+        sortedResults.forEach(file => {
+          const tr = document.createElement("tr");
+          tr.dataset.name = file.name.toLowerCase();
+          tr.classList.add(file.isWorking ? 'working' : 'not-working');
+          tr.innerHTML = `
+            <td>${file.name}</td>
+            <td class="${file.isWorking ? 'status-working' : 'status-failed'}">
+              ${file.isWorking ? 'Working' : 'Not Working'}
+            </td>
+            <td>${file.lastUpdated}</td>
+            <td>
+              <a href="${file.url}" target="_blank">Open</a>
+              <button class="copy-btn" onclick="navigator.clipboard.writeText('${file.url}')">Copy</button>
+            </td>
+          `;
+          table.appendChild(tr);
+          if (file.isWorking) workingCount++;
+          else failedCount++;
+        });
+
+        summaryCounts.textContent = `Total: ${workingCount + failedCount}, Working: ${workingCount}, Not Working: ${failedCount}`;
+        document.getElementById("loading").remove();
+      } catch (err) {
+        console.error("Failed to load files:", err);
+        summaryCounts.textContent = "Error loading data.";
       }
     }
+
+    // Event: Hide Not Working
+    hideNotWorkingCheckbox.addEventListener("change", () => {
+      const show = !hideNotWorkingCheckbox.checked;
+      document.querySelectorAll("tr.not-working").forEach(tr => {
+        tr.style.display = show ? "" : "none";
+      });
+    });
+
+    // Event: Search
+    searchInput.addEventListener("input", () => {
+      const search = searchInput.value.toLowerCase();
+      document.querySelectorAll("#playlistTable tr").forEach(tr => {
+        tr.style.display = tr.dataset.name.includes(search) ? "" : "none";
+      });
+    });
+
+    // Event: Dark Mode
+    document.getElementById("darkModeToggle").addEventListener("change", (e) => {
+      document.body.classList.toggle("dark", e.target.checked);
+    });
+
+    // Event: Download Working M3U
+    document.getElementById("downloadBtn").addEventListener("click", () => {
+      const links = Array.from(document.querySelectorAll("tr.working a"))
+        .map(a => a.href);
+      const content = "#EXTM3U\n" + links.map(link => `#EXTINF:-1,${link.split('/').pop()}\n${link}`).join("\n");
+      const blob = new Blob([content], { type: "text/plain" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "working_playlists.m3u";
+      a.click();
+    });
 
     fetchM3UFiles();
   </script>
