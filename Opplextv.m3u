@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="Tmeallinonereborn" tvg-language="Unknown",Tmeallinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tmeallinonereborn.png" group-title="General" tvg-name="TmeM3YIPTV" tvg-language="Unknown",TmeM3YIPTV
+https://m3uplaylist-plum.vercel.app/m3u_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ary_digital.png" group-title="General" tvg-name="Pk Ary Digital" tvg-language="Unknown",Pk Ary Digital
 https://allinonereborn.com/oplx11.m3u8?id=221337
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ary_digital_hd.png" group-title="General" tvg-name="Pk Ary Digital Hd" tvg-language="Unknown",Pk Ary Digital Hd
