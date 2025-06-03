@@ -1,27 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8"/>
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>M3U Playlist Status</title>
+  <title>M3U Playlist Status Checker</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
       padding: 20px;
-      background: #f9f9f9;
-      color: #000;
+      background-color: #f0f2f5;
+      color: #333;
+      transition: background-color 0.3s, color 0.3s;
     }
     h1 {
       text-align: center;
+      margin-bottom: 30px;
+      animation: slideIn 1s ease-out;
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+    #controls input[type="text"] {
+      padding: 10px;
+      width: 250px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      transition: border-color 0.3s;
+    }
+    #controls input[type="text"]:focus {
+      border-color: #007bff;
+      outline: none;
+    }
+    #controls label {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 14px;
+    }
+    #controls button {
+      padding: 10px 20px;
+      background: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    #controls button:hover {
+      background: #0056b3;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-top: 10px;
+      animation: fadeIn 1s ease-in;
     }
     th, td {
-      padding: 10px;
-      border: 1px solid #ccc;
+      padding: 12px;
+      border: 1px solid #ddd;
       text-align: left;
     }
     th {
@@ -39,14 +83,10 @@
     tr.hidden {
       display: none;
     }
-    #controls {
+    #summaryCounts {
       text-align: center;
-      margin: 20px 0;
-    }
-    #searchInput {
-      padding: 6px;
-      width: 240px;
-      font-size: 14px;
+      margin-top: 20px;
+      font-weight: bold;
     }
     #loading {
       text-align: center;
@@ -54,10 +94,18 @@
       font-weight: bold;
     }
     button.copy-btn {
-      padding: 4px 8px;
-      margin-left: 6px;
+      padding: 6px 12px;
+      margin-left: 10px;
       font-size: 12px;
       cursor: pointer;
+      background: #28a745;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+    button.copy-btn:hover {
+      background: #218838;
     }
     body.dark {
       background-color: #121212;
@@ -83,9 +131,8 @@
   <div id="controls">
     <label><input type="checkbox" id="hideNotWorking"> Hide Not Working</label>
     <input type="text" id="searchInput" placeholder="Search by file name..." />
-    <label style="margin-left: 20px;"><input type="checkbox" id="darkModeToggle"> Dark Mode</label>
-    <button id="downloadBtn" style="margin-left: 20px;">Download Working M3U</button>
-    <p id="summaryCounts">Loading counts...</p>
+    <label><input type="checkbox" id="darkModeToggle"> Dark Mode</label>
+    <button id="downloadBtn">Download Working M3U</button>
   </div>
 
   <table>
@@ -100,6 +147,7 @@
     <tbody id="playlistTable"></tbody>
   </table>
 
+  <p id="summaryCounts">Loading counts...</p>
   <p id="loading">Checking playlists...</p>
 
   <script>
@@ -169,63 +217,4 @@
           tr.dataset.name = file.name.toLowerCase();
           tr.classList.add(file.isWorking ? 'working' : 'not-working');
           tr.innerHTML = `
-            <td>${file.name}</td>
-            <td class="${file.isWorking ? 'status-working' : 'status-failed'}">
-              ${file.isWorking ? 'Working' : 'Not Working'}
-            </td>
-            <td>${file.lastUpdated}</td>
-            <td>
-              <a href="${file.url}" target="_blank">Open</a>
-              <button class="copy-btn" onclick="navigator.clipboard.writeText('${file.url}')">Copy</button>
-            </td>
-          `;
-          table.appendChild(tr);
-          if (file.isWorking) workingCount++;
-          else failedCount++;
-        });
-
-        summaryCounts.textContent = `Total: ${workingCount + failedCount}, Working: ${workingCount}, Not Working: ${failedCount}`;
-        document.getElementById("loading").remove();
-      } catch (err) {
-        console.error("Failed to load files:", err);
-        summaryCounts.textContent = "Error loading data.";
-      }
-    }
-
-    // Event: Hide Not Working
-    hideNotWorkingCheckbox.addEventListener("change", () => {
-      const show = !hideNotWorkingCheckbox.checked;
-      document.querySelectorAll("tr.not-working").forEach(tr => {
-        tr.style.display = show ? "" : "none";
-      });
-    });
-
-    // Event: Search
-    searchInput.addEventListener("input", () => {
-      const search = searchInput.value.toLowerCase();
-      document.querySelectorAll("#playlistTable tr").forEach(tr => {
-        tr.style.display = tr.dataset.name.includes(search) ? "" : "none";
-      });
-    });
-
-    // Event: Dark Mode
-    document.getElementById("darkModeToggle").addEventListener("change", (e) => {
-      document.body.classList.toggle("dark", e.target.checked);
-    });
-
-    // Event: Download Working M3U
-    document.getElementById("downloadBtn").addEventListener("click", () => {
-      const links = Array.from(document.querySelectorAll("tr.working a"))
-        .map(a => a.href);
-      const content = "#EXTM3U\n" + links.map(link => `#EXTINF:-1,${link.split('/').pop()}\n${link}`).join("\n");
-      const blob = new Blob([content], { type: "text/plain" });
-      const a = document.createElement("a");
-      a.href = URL.createObjectURL(blob);
-      a.download = "working_playlists.m3u";
-      a.click();
-    });
-
-    fetchM3UFiles();
-  </script>
-</body>
-</html>
+            <td>${file14
