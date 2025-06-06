@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids.png" group-title="General" tvg-name="Kids" tvg-language="Unknown",Kids
+https://allinonereborn.com/oplex.m3u8?id=106148
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_cartoon_network.png" group-title="General" tvg-name="Cartoon Network" tvg-language="Unknown",Cartoon Network
+https://allinonereborn.com/oplex.m3u8?id=150478
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_pogo.png" group-title="General" tvg-name="Pogo" tvg-language="Unknown",Pogo
+https://allinonereborn.com/oplex.m3u8?id=150483
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_cartoon_network_hd.png" group-title="General" tvg-name="Cartoon Network HD" tvg-language="Unknown",Cartoon Network HD
+https://allinonereborn.com/oplex.m3u8?id=153154
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_hungama.png" group-title="General" tvg-name="Hungama" tvg-language="Unknown",Hungama
+https://allinonereborn.com/oplex.m3u8?id=150480
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_nick.png" group-title="General" tvg-name="Nick" tvg-language="Unknown",Nick
+https://allinonereborn.com/oplex.m3u8?id=150482
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/ind_nick_junior.png" group-title="General" tvg-name="Nick Junior" tvg-language="Unknown",Nick Junior
+https://allinonereborn.com/oplex.m3u8?id=153156
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/discovery_kids.png" group-title="General" tvg-name="Discovery Kids" tvg-language="Unknown",Discovery Kids
+https://allinonereborn.com/oplex.m3u8?id=76723
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_disney_junior.png" group-title="General" tvg-name="Disney Junior" tvg-language="Unknown",Disney Junior
+https://allinonereborn.com/oplex.m3u8?id=153175
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids_chutti_tv.png" group-title="General" tvg-name="Chutti TV" tvg-language="Unknown",Chutti TV
+https://allinonereborn.com/oplex.m3u8?id=150479
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_disney_hd.png" group-title="General" tvg-name="Disney HD" tvg-language="Unknown",Disney HD
+https://allinonereborn.com/oplex.m3u8?id=167551
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/af_dstv_disney_channel_hd.png" group-title="General" tvg-name="Disney Channel HD (DSTV)" tvg-language="Unknown",Disney Channel HD (DSTV)
+https://allinonereborn.com/oplex.m3u8?id=238527
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/af_dstv_disney_junior_hd.png" group-title="General" tvg-name="Disney Junior HD (DSTV)" tvg-language="Unknown",Disney Junior HD (DSTV)
+https://allinonereborn.com/oplex.m3u8?id=238528
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/intm_disney_junior.png" group-title="General" tvg-name="Disney Junior (Intl)" tvg-language="Unknown",Disney Junior (Intl)
+https://allinonereborn.com/oplex.m3u8?id=381018
