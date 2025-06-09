@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids.png" group-title="General" tvg-name="Kids" tvg-language="Unknown",Kids
-https://allinonereborn.com/oplex.m3u8?id=106148
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/kids.png" group-title="General" tvg-name="Kids" tvg-language="Unknown",fancod
+https://freetrial.fancode.com/primary/128186_english_hls_33641adfreeta-di_h264/240p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_cartoon_network.png" group-title="General" tvg-name="Cartoon Network" tvg-language="Unknown",Cartoon Network
 https://allinonereborn.com/oplex.m3u8?id=150478
 #EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_pogo.png" group-title="General" tvg-name="Pogo" tvg-language="Unknown",Pogo
