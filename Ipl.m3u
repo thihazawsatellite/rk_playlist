@@ -11,3 +11,85 @@ http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165776
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2372
 #EXTINF:-1 tvg-id="" tvg-name="US: Willow Xtra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2a9ac0a71cf1b13842fb8ac73f0f7bad.png" group-title="USA ➾ Sports",US: Willow Xtra
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/296763
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ptv_sports.png" group-title="Live Sports" tvg-name="Pk Ptv Sports" tvg-language="Unknown",Pk Ptv Sports
+https://allinonereborn.com/oplex.m3u8?id=167567
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ptv_sports_hd.png" group-title="Live Sports" tvg-name="Pk Ptv Sports Hd" tvg-language="Unknown",Pk Ptv Sports Hd
+https://allinonereborn.com/oplex.m3u8?id=217968
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_geo_super_hd.png" group-title="General" tvg-name="Pk Geo Super Hd" tvg-language="Unknown",Pk Geo Super Hd
+https://allinonereborn.com/oplex.m3u8?id=167568
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_ten_sports.png" group-title="Live Sports" tvg-name="Pk Ten Sports" tvg-language="Unknown",Pk Ten Sports
+https://allinonereborn.com/oplex.m3u8?id=167569
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/t20_world_cup_01.png" group-title="General" tvg-name="T20 World Cup 01" tvg-language="Unknown",T20 World Cup 01
+https://allinonereborn.com/oplex.m3u8?id=219643
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_a_sports_hd_server_1.png" group-title="Live Sports" tvg-name="Pk A Sports Hd Server 1" tvg-language="Unknown",Pk A Sports Hd Server 1
+https://allinonereborn.com/oplex.m3u8?id=219689
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_a_sports_hd_server_2.png" group-title="Live Sports" tvg-name="Pk A Sports Hd Server 2" tvg-language="Unknown",Pk A Sports Hd Server 2
+https://allinonereborn.com/oplex.m3u8?id=221417
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sony_ten_1_hd.png" group-title="General" tvg-name="In Sony Ten 1 Hd" tvg-language="Unknown",In Sony Ten 1 Hd
+https://allinonereborn.com/oplex.m3u8?id=167570
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sony_ten_2_hd.png" group-title="General" tvg-name="In Sony Ten 2 Hd" tvg-language="Unknown",In Sony Ten 2 Hd
+https://allinonereborn.com/oplex.m3u8?id=167571
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sony_ten_3_hd.png" group-title="General" tvg-name="In Sony Ten 3 Hd" tvg-language="Unknown",In Sony Ten 3 Hd
+https://allinonereborn.com/oplex.m3u8?id=167572
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sony_ten_4_hd.png" group-title="General" tvg-name="In Sony Ten 4 Hd" tvg-language="Unknown",In Sony Ten 4 Hd
+https://allinonereborn.com/oplex.m3u8?id=167595
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sony_ten_5_hd.png" group-title="General" tvg-name="In Sony Ten 5 Hd" tvg-language="Unknown",In Sony Ten 5 Hd
+https://allinonereborn.com/oplex.m3u8?id=167580
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/cri_ten_cricket.png" group-title="General" tvg-name="Cri Ten Cricket" tvg-language="Unknown",Cri Ten Cricket
+https://allinonereborn.com/oplex.m3u8?id=167587
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_1_hindi.png" group-title="Live Sports" tvg-name="In Star Sports 1 Hindi" tvg-language="Hindi",In Star Sports 1 Hindi
+https://allinonereborn.com/oplex.m3u8?id=167573
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_tamil_1.png" group-title="Live Sports" tvg-name="In Star Sports Tamil 1" tvg-language="Tamil",In Star Sports Tamil 1
+https://allinonereborn.com/oplex.m3u8?id=167574
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_1_hd.png" group-title="Live Sports" tvg-name="In Star Sports 1 Hd" tvg-language="Unknown",In Star Sports 1 Hd
+https://allinonereborn.com/oplex.m3u8?id=167575
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_2_hd.png" group-title="Live Sports" tvg-name="In Star Sports 2 Hd" tvg-language="Unknown",In Star Sports 2 Hd
+https://allinonereborn.com/oplex.m3u8?id=167576
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_3_hd.png" group-title="Live Sports" tvg-name="In Star Sports 3 Hd" tvg-language="Unknown",In Star Sports 3 Hd
+https://allinonereborn.com/oplex.m3u8?id=167577
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_select_1.png" group-title="Live Sports" tvg-name="In Star Sports Select 1" tvg-language="Unknown",In Star Sports Select 1
+https://allinonereborn.com/oplex.m3u8?id=167578
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_star_sports_select_2.png" group-title="Live Sports" tvg-name="In Star Sports Select 2" tvg-language="Unknown",In Star Sports Select 2
+https://allinonereborn.com/oplex.m3u8?id=167579
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_sports_18_4k.png" group-title="Live Sports" tvg-name="In Sports 18 4K" tvg-language="Unknown",In Sports 18 4K
+https://allinonereborn.com/oplex.m3u8?id=382205
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_astro_cricket_hd.png" group-title="General" tvg-name="In Astro Cricket Hd" tvg-language="Unknown",In Astro Cricket Hd
+https://allinonereborn.com/oplex.m3u8?id=167581
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/supersport_cricket.png" group-title="Live Sports" tvg-name="Supersport Cricket" tvg-language="Unknown",Supersport Cricket
+https://allinonereborn.com/oplex.m3u8?id=167592
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/au_fox_cricket_501.png" group-title="General" tvg-name="Au Fox Cricket 501" tvg-language="Unknown",Au Fox Cricket 501
+https://allinonereborn.com/oplex.m3u8?id=167593
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/uk_sky_sports_cricket.png" group-title="Live Sports" tvg-name="Uk Sky Sports Cricket" tvg-language="Unknown",Uk Sky Sports Cricket
+https://allinonereborn.com/oplex.m3u8?id=167594
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_willow_xtra.png" group-title="General" tvg-name="In Willow Xtra" tvg-language="Unknown",In Willow Xtra
+https://allinonereborn.com/oplex.m3u8?id=167582
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_willow_cricket_hd.png" group-title="General" tvg-name="In Willow Cricket Hd" tvg-language="Unknown",In Willow Cricket Hd
+https://allinonereborn.com/oplex.m3u8?id=167583
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/bs_bein_sport_cricket.png" group-title="Live Sports" tvg-name="Bs Bein Sport Cricket" tvg-language="Unknown",Bs Bein Sport Cricket
+https://allinonereborn.com/oplex.m3u8?id=167584
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_eurosport_hd.png" group-title="Live Sports" tvg-name="In Eurosport Hd" tvg-language="Unknown",In Eurosport Hd
+https://allinonereborn.com/oplex.m3u8?id=167585
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_1sports.png" group-title="Live Sports" tvg-name="In 1Sports" tvg-language="Unknown",In 1Sports
+https://allinonereborn.com/oplex.m3u8?id=167586
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/in_dd_sports.png" group-title="Live Sports" tvg-name="In Dd Sports" tvg-language="Unknown",In Dd Sports
+https://allinonereborn.com/oplex.m3u8?id=167588
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/tsports.png" group-title="Live Sports" tvg-name="Tsports" tvg-language="Unknown",Tsports
+https://allinonereborn.com/oplex.m3u8?id=167590
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/afg_rta_sports.png" group-title="Live Sports" tvg-name="Afg Rta Sports" tvg-language="Unknown",Afg Rta Sports
+https://allinonereborn.com/oplex.m3u8?id=167591
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/ind_jio_cricket.png" group-title="General" tvg-name="Ind Jio Cricket" tvg-language="Unknown",Ind Jio Cricket
+https://allinonereborn.com/oplex.m3u8?id=206297
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/uk_tnt_sport_2_cricket.png" group-title="Live Sports" tvg-name="Uk Tnt Sport 2 Cricket" tvg-language="Unknown",Uk Tnt Sport 2 Cricket
+https://allinonereborn.com/oplex.m3u8?id=206566
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_maq_tv_cricket.png" group-title="General" tvg-name="Pk Maq Tv Cricket" tvg-language="Unknown",Pk Maq Tv Cricket
+https://allinonereborn.com/oplex.m3u8?id=207190
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/nz_sky_sport_cricket_3.png" group-title="Live Sports" tvg-name="Nz Sky Sport Cricket 3" tvg-language="Unknown",Nz Sky Sport Cricket 3
+https://allinonereborn.com/oplex.m3u8?id=217530
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/pk_fast_sports.png" group-title="Live Sports" tvg-name="Pk Fast Sports" tvg-language="Unknown",Pk Fast Sports
+https://allinonereborn.com/oplex.m3u8?id=308225
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/starzplay_criclife_1.png" group-title="General" tvg-name="Starzplay Criclife 1" tvg-language="Unknown",Starzplay Criclife 1
+https://allinonereborn.com/oplex.m3u8?id=371469
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/starzplay_criclife_2.png" group-title="General" tvg-name="Starzplay Criclife 2" tvg-language="Unknown",Starzplay Criclife 2
+https://allinonereborn.com/oplex.m3u8?id=371470
+#EXTINF:-1 tvg-logo="https://github.com/iptv-org/iptv/tree/master/logos/starzplay_criclife_3.png" group-title="General" tvg-name="Starzplay Criclife 3" tvg-language="Unknown",Starzplay Criclife 3
+https://allinonereborn.com/oplex.m3u8?id=371471
