@@ -1,4 +1,4 @@
-#EXTM3U @Live Sports
+#EXTM3U @Live Sports Thihazaw
 #EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live Sports
 http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
@@ -87,47 +87,77 @@ http://195.189.60.33:8002/play/a009/index.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Extreme Sports
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/144/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Canal+ Sport FHD PL
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/6098/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",VIASAT Sport HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5065/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Setanta Sports Ukraine HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Setanta Sports HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5069/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Setanta Sports 2 orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5069/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Eurosport 1 HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5075/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Eurosport 2 North-East HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5076/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Xsport HD orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/5077/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Extreme Sports orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/9160/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Eurosport 1 orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/9247/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Viasat Sport orig
+http://f6b5d24f.akadatel.com/iptv/BZSRP9547P9TE9/9249/index.m3u8
 
-#EXTM3U @Entertainment
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTM3U @NEWS INTERNASIONAL
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL", T Global News (Canada)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT News (EN) 🛜
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RTNEWS GLOBAL
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT NEWS USA
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 🛜
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International News tv 
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 🛜
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
-https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜v
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📶_📺
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
