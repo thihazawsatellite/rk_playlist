@@ -1,4 +1,90 @@
 # GROUP: Sports
+#EXTINF:-1,TNT 1
+https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT 2
+https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT 3
+https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT 4
+https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T sports
+https://tiger-hub.vercel.app/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports premire League
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports Mix
+https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV Sports
+https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Premire Sports 1
+https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
+StarSports Select 1
+https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LaLiga tv(DAZN)
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LaLiga TV
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports Football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+Premire Sports 2
+https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN
+https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+SkySports 1 New Zealand 
+https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports 2 New Zealand
+https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WillowHD
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WillowHD Extra
+https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro Cricket
+https://tiger-hub.vercel.app/Astro-Cricket/tracks-v1a1/mono.m3u8
+SkySports Cricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SuperSports Cricket
+https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarSports 1
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarSports 1 Hindy
+https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WillowHD
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WillowHD Extra
+https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro Cricket
+https://tiger-hub.vercel.app/Astro-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports Cricket
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SuperSports Cricket
+https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarSports 1
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+StarSports 1 Hindy
+https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
+StarSports Select 1
+https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LaLiga tv(DAZN)
+https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LaLiga TV
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports Football
+https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports premire League
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports Mix
+https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,vPTV Sports
+https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Premire Sports 1
+https://tiger-hub.vercel.app/Premier_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Premire Sports 2
+https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN
+https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports 1 New Zealand 
+https://tiger-hub.vercel.app/SkySports-1_NZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SkySports 2 New Zealand
+https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KW: KTV Sport 2
 http://hellosky.live:8080/live/HameedDubai/0507067610/142113.m3u8
 #EXTINF:-1,CRIC || EUROSPORTS ᴴᴰ
