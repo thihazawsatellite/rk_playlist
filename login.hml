@@ -67,8 +67,8 @@
     <button onclick="login()">Login</button>
     <p class="error" id="errorMsg"></p>
   </div>  <script>
-    const validUsername = "@nubcarder";
-    const validPassword = "mdsaddam776@";
+    const validUsername = "@thihazaw";
+    const validPassword = "aeiou@";
 
     function login() {
       const username = document.getElementById("username").value;
